@@ -41,6 +41,20 @@ panorama_ED5F84EC_E7ED_01CD_41D9_42A1A5E6EB59.label = GS__0468
 panorama_ED5E4AAE_E7ED_004C_41A3_94CB73C70E79.label = GS__0469
 panorama_ED5FE0B6_E7ED_005C_41CC_75F0D2174E2F.label = GS__0470
 
+## Skin
+
+### Button
+Button_E3F7C45B_E81E_04DD_41E4_DD2767E61114.label = PANORAMA LIST
+Button_E3F7C45B_E81E_04DD_41E4_DD2767E61114_mobile.label = PANORAMA LIST
+
+### Image
+Image_E3F6545A_E81E_04DF_41DB_71F7B2E8D904.url = skin/Image_E3F6545A_E81E_04DF_41DB_71F7B2E8D904_en.png
+Image_E3F6545A_E81E_04DF_41DB_71F7B2E8D904_mobile.url = skin/Image_E3F6545A_E81E_04DF_41DB_71F7B2E8D904_mobile_en.png
+
+### Multiline Text
+HTMLText_E65528D4_E81E_0C2B_41C2_802D1237EE4D_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.794871794871795vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.79vh;font-family:'Otama.ep';"><B>PANORAMA LIST/</B></SPAN></SPAN></DIV></div>
+HTMLText_E65528D4_E81E_0C2B_41C2_802D1237EE4D.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.9100000000000006vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.91vh;font-family:'Otama.ep';"><B>PANORAMA LIST/</B></SPAN></SPAN></DIV></div>
+
 ## Tour
 
 ### Description
